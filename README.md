@@ -11,4 +11,4 @@ When transferring .txt files to the project, they should be transferred apart fr
 ![IMG_0509](https://github.com/plamglotis/Hangman/assets/49042417/6b95747c-43c4-4023-b258-e6cbee15fa92)
 
 # Support
-https://buymeacoffee.com/plamglotis
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="plamglotis" data-color="#FFDD00" data-emoji="🍪" data-font="Comic" data-text="Buy me a cookie" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
